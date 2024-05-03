@@ -1,0 +1,17 @@
+
+.box{
+    overflow: hidden;
+    margin: 0 auto;
+}
+H1{color:red}
+#header{
+    text-align: center;
+    color:black;
+}
+.pizza{
+    width:22%;
+    box-sizing: border-box;
+    float:left;
+    margin-left: 4%;
+    max-width: 275px;
+}
